@@ -4,15 +4,15 @@ A passionate frontend developer from India
 - 🎓 Recent graduate with a degree in **MSC(CS) (MASTER OF COMPUTER SCIENCE).**
 🛠️ My Favorite Tools and Technologies: 💻 Visual Studio Code - 🚀 React.js for frontend development
 
-💻 Actively learning and exploring Full Stack Development (MERN).
+ 💻 Actively learning and exploring Full Stack Development (MERN).
 
-🌱 I’m Currently focusing on Front-End
+ 🌱 I’m Currently focusing on Front-End
 
-💬 Ask me about Frontend Development with HTML, CSS, and JavaScript.
+ 💬 Ask me about Frontend Development with HTML, CSS, and JavaScript.
 
-📫 How to reach me: yabeshm@16gmail.com / yabeshm01@gmail.com
+ 📫 How to reach me: yabeshm@16gmail.com / yabeshm01@gmail.com
 
-🎲 Fun fact: I can solve a Rubik's Cube in under 40 sec! It's my favorite way to unwind after coding sessions.
+ 🎲 Fun fact: "Hello, World!" is a traditional first program because it demonstrates basic syntax and functionality in a new programming language..
 
 <!---
 im-yabi/im-yabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
